@@ -26,4 +26,4 @@ About 9.5M observations. 10 raw columns; more features (e.g. Greeks) will be com
 *Source: https://www.kaggle.com/datasets/dudesurfin/spy-options-eod-volatility-surface-2010-2023*
 
 **Google Colab**: 
-*https://colab.research.google.com/github/stassisss/Finance-projects/blob/main/ML_implied_volatility_predict.ipynb*
+*https://colab.research.google.com/github/stassisss/Volatility_surface_predict_ML/blob/main/ML_implied_volatility_predict.ipynb*
